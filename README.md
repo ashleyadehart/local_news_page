@@ -15,7 +15,7 @@ The webpage includes a site header, grouped news sections, individual news artic
 
 ## Project Structure
 
-news-website/
+local_news_page/
 │
 ├── index.html
 ├── css/
